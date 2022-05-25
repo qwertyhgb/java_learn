@@ -1,0 +1,252 @@
+{
+    // 使用 IntelliSense 了解相关属性。 
+    // 悬停以查看现有属性的描述。
+    // 欲了解更多信息，请访问: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch test",
+            "request": "launch",
+            "mainClass": "test",
+            "projectName": "java_learn_afa5d8ab"
+        },
+        {
+            "type": "java",
+            "name": "Launch FileStreamTest",
+            "request": "launch",
+            "mainClass": "learn.输出流与输入流.FileInputStream类与FileOutputStream类.FileStreamTest",
+            "projectName": "java_learn_afa5d8ab"
+        },
+        {
+            "type": "java",
+            "name": "Launch FolderTest",
+            "request": "launch",
+            "mainClass": "learn.输出流与输入流.File类.目录.文件夹操作.FolderTest",
+            "projectName": "java_learn_afa5d8ab"
+        },
+        {
+            "type": "java",
+            "name": "Launch Example_main2",
+            "request": "launch",
+            "mainClass": "learn.输出流与输入流.File类.文件的创建与删除.Example_main2",
+            "projectName": "java_learn_afa5d8ab"
+        },
+        {
+            "type": "java",
+            "name": "Launch Example_main",
+            "request": "launch",
+            "mainClass": "learn.输出流与输入流.File类.目录.Example_main",
+            "projectName": "java_learn_afa5d8ab"
+        },
+        {
+            "type": "java",
+            "name": "Launch Example_1",
+            "request": "launch",
+            "mainClass": "learn.输出流与输入流.File类.Example_1",
+            "projectName": "java_learn_afa5d8ab"
+        },
+        {
+            "type": "java",
+            "name": "Launch Example_main1",
+            "request": "launch",
+            "mainClass": "learn.常用实用类.String类.Example_main1",
+            "projectName": "java_learn_afa5d8ab"
+        },
+        {
+            "type": "java",
+            "name": "Launch Example",
+            "request": "launch",
+            "mainClass": "learn.内部类_匿名类等.shiyan.shiyan_1.Example",
+            "projectName": "java_learn_afa5d8ab"
+        },
+        {
+            "type": "java",
+            "name": "Launch Example_main",
+            "request": "launch",
+            "mainClass": "learn.内部类_匿名类等.异常类.自定义异常类.Example_main",
+            "projectName": "java_learn_afa5d8ab"
+        },
+        {
+            "type": "java",
+            "name": "Launch Tomato",
+            "request": "launch",
+            "mainClass": "learn.内部类_匿名类等.异常类.Tomato",
+            "projectName": "java_learn_afa5d8ab"
+        },
+        {
+            "type": "java",
+            "name": "Launch Example_super",
+            "request": "launch",
+            "mainClass": "learn.面对对象编程.核心.super关键字.使用super关键字操着被隐藏的成员变量和方法.Example_super",
+            "projectName": "java_learn_afa5d8ab"
+        },
+        {
+            "type": "java",
+            "name": "Launch Example_super",
+            "request": "launch",
+            "mainClass": "learn.面对对象编程.核心.super关键字.Example_super",
+            "projectName": "java_learn_afa5d8ab"
+        },
+        {
+            "type": "java",
+            "name": "Launch OverWriteEquals",
+            "request": "launch",
+            "mainClass": "learn.面对对象编程.核心.object类.OverWriteEquals",
+            "projectName": "java_learn_afa5d8ab"
+        },
+        {
+            "type": "java",
+            "name": "Launch Pad3",
+            "request": "launch",
+            "mainClass": "learn.面对对象编程.核心.super关键字.Pad3",
+            "projectName": "java_learn_afa5d8ab"
+        },
+        {
+            "type": "java",
+            "name": "Launch Pad",
+            "request": "launch",
+            "mainClass": "learn.面对对象编程.核心.Pad",
+            "projectName": "java_learn_afa5d8ab"
+        },
+        {
+            "type": "java",
+            "name": "Launch Test",
+            "request": "launch",
+            "mainClass": "learn.面对对象编程.核心.test.Student的封装.Test",
+            "projectName": "java_learn_afa5d8ab"
+        },
+        {
+            "type": "java",
+            "name": "Launch EggCake",
+            "request": "launch",
+            "mainClass": "learn.面对对象编程.基础.EggCake",
+            "projectName": "java_learn_afa5d8ab"
+        },
+        {
+            "type": "java",
+            "name": "Launch BorrowBook2",
+            "request": "launch",
+            "mainClass": "learn.面对对象编程.基础.BorrowBook2",
+            "projectName": "java_learn_afa5d8ab"
+        },
+        {
+            "type": "java",
+            "name": "Launch BorrowBook",
+            "request": "launch",
+            "mainClass": "learn.面对对象编程.基础.BorrowBook",
+            "projectName": "java_learn_afa5d8ab"
+        },
+        {
+            "type": "java",
+            "name": "Launch ExchangeRate",
+            "request": "launch",
+            "mainClass": "learn.面对对象编程.基础.ExchangeRate",
+            "projectName": "java_learn_afa5d8ab"
+        },
+        {
+            "type": "java",
+            "name": "Launch text_1",
+            "request": "launch",
+            "mainClass": "learn.小练习.text_1",
+            "projectName": "java_learn_afa5d8ab"
+        },
+        {
+            "type": "java",
+            "name": "Launch Book",
+            "request": "launch",
+            "mainClass": "learn.面对对象编程.基础.Book",
+            "projectName": "java_learn_afa5d8ab"
+        },
+        {
+            "type": "java",
+            "name": "Launch StringContains",
+            "request": "launch",
+            "mainClass": "learn.字符串.StringContains",
+            "projectName": "java_learn_afa5d8ab"
+        },
+        {
+            "type": "java",
+            "name": "Launch StringToArry",
+            "request": "launch",
+            "mainClass": "learn.字符串.StringToArry",
+            "projectName": "java_learn_afa5d8ab"
+        },
+        {
+            "type": "java",
+            "name": "Launch StringStartWhit",
+            "request": "launch",
+            "mainClass": "learn.字符串.StringStartWhit",
+            "projectName": "java_learn_afa5d8ab"
+        },
+        {
+            "type": "java",
+            "name": "Launch StringIndexOf",
+            "request": "launch",
+            "mainClass": "learn.数组.StringIndexOf",
+            "projectName": "java_learn_afa5d8ab"
+        },
+        {
+            "type": "java",
+            "name": "Launch add_data",
+            "request": "launch",
+            "mainClass": "learn.数组.add_data",
+            "projectName": "java_learn_afa5d8ab"
+        },
+        {
+            "type": "java",
+            "name": "Launch Person",
+            "request": "launch",
+            "mainClass": "Person",
+            "projectName": "java_learn_afa5d8ab"
+        },
+        {
+            "type": "java",
+            "name": "Launch demo2",
+            "request": "launch",
+            "mainClass": "数组.demo2",
+            "projectName": "java_learn_afa5d8ab"
+        },
+        {
+            "type": "java",
+            "name": "Launch demo",
+            "request": "launch",
+            "mainClass": "数组.demo",
+            "projectName": "java_learn_afa5d8ab"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Hello",
+            "request": "launch",
+            "mainClass": "Hello",
+            "projectName": "java_learn_afa5d8ab"
+        },
+        {
+            "type": "java",
+            "name": "Launch LoginService",
+            "request": "launch",
+            "mainClass": "java语言基础.布尔类型.LoginService",
+            "projectName": "java_learn_afa5d8ab"
+        },
+        {
+            "type": "java",
+            "name": "Launch Try",
+            "request": "launch",
+            "mainClass": "java语言基础.布尔类型.Try",
+            "projectName": "java_learn_afa5d8ab"
+        },
+        {
+            "type": "java",
+            "name": "Launch ImplicitConversion",
+            "request": "launch",
+            "mainClass": "java语言基础.数据类型转换.ImplicitConversion",
+            "projectName": "java_learn_afa5d8ab"
+        }
+    ]
+}
